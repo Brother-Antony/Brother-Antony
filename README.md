@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Antony Elmer</h1>
 <p align="center">I am currently training as a frontend developer 💁🏻‍♂️</p>
 <hr>
-<h2 align="center">ABOUT ME</h2>
+
+<div style="flex: 0 0 100%; max-width: 100%;">
+  <h2 align="center" style="display: inline-block; padding-bottom: 13px; position: relative;">ABOUT ME</h2>
+</div>  
+  
 <!--
 **Brother-Antony/Brother-Antony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
