@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antony Elmer</h1>
-<hr>
 <p align="center">I am currently training as a frontend developer 💁🏻‍♂️</p>
+<hr>
 <h2 align="center">ABOUT ME</h2>
 <!--
 **Brother-Antony/Brother-Antony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
