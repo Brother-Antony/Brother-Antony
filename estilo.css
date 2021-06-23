@@ -1,1 +1,4 @@
-@import url();
+@import url(README.md);
+h2 {
+  background-color: red;
+}
