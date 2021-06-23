@@ -72,7 +72,18 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCJyVpgkKclh57_kOFmEFbEQ">
+    <img src="https://img.shields.io/badge/YouTube-Brother_Antony-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010" data-canonical-src="https://img.shields.io/badge/YouTube-Brother-Antony-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010" style="max-width:100%;">
+  </a>
+</p>
 
+
+
+<!--[![Web](https://img.shields.io/badge/My_Website-antonioleiva.com-14a1f0?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://antonioleiva.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Antonio_Leiva-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/antoniolg28)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio_Leiva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://devexperto.com/linkedin
+[![Instagram](https://img.shields.io/badge/Instagram-@antonioleivag-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/antonioleivag)-->
 <!--
 **Brother-Antony/Brother-Antony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
