@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antony Elmer</h1>
+<hr>
 <p align="center">I am currently training as a frontend developer 💁🏻‍♂️</p>
 <h2 align="center">ABOUT ME</h2>
 <!--
