@@ -1,5 +1,16 @@
 <h1 align="center">Hi 👋, I'm Antony Elmer</h1>
-<p align="center">I am currently training as a frontend developer 💁🏻‍♂️</p>
+<h4 align="center">I am currently training as a frontend developer 💁🏻‍♂️</h4>
+
+<p align="center">
+  <a href="https://github.com/Brother-Antony">
+    <img src="https://img.shields.io/github/followers/Brother-Antony?logo=GitHub&style=for-the-badge">
+  </a>
+  
+  <a href="https://github.com/Brother-Antony">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCJyVpgkKclh57_kOFmEFbEQ?label=Brother_Antony&logo=youtube&style=for-the-badge">
+  </a>
+</p>
+
 <h3 align="center">ABOUT ME</h3>
 
 
@@ -72,11 +83,11 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.youtube.com/channel/UCJyVpgkKclh57_kOFmEFbEQ">
-    <img src="https://img.shields.io/badge/YouTube-Brother_Antony-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010" data-canonical-src="https://img.shields.io/badge/YouTube-Brother-Antony-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010" style="max-width:100%;">
+    <img src="https://img.shields.io/badge/YouTube-Brother_Antony-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010" style="max-width:100%;">
   </a>
-</p>
+</p> -->
 
 
 
