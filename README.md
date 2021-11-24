@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/github/followers/Brother-Antony?logo=GitHub&style=for-the-badge">
   </a>
   
-  <a href="https://github.com/Brother-Antony">
+  <a href="https://www.youtube.com/channel/UCJyVpgkKclh57_kOFmEFbEQ">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCJyVpgkKclh57_kOFmEFbEQ?label=Brother_Antony&logo=youtube&style=for-the-badge">
   </a>
 </p>
@@ -71,8 +71,11 @@
 <h3 align="center">GITHUB STATS</h3>
 <hr>
 
-![Brother Antony GitHub stats](https://github-readme-stats.vercel.app/api?username=Brother-Antony&show_icons=true&theme=dark)
-
+<p align="center">
+  <a href="https://github.com/Brother-Antony">
+    <img src="https://github-readme-stats.vercel.app/api?username=Brother-Antony&show_icons=true&theme=dark" />
+  </a>
+</p>
 
 
 
