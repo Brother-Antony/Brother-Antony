@@ -71,25 +71,8 @@
 <h3 align="center">GITHUB STATS</h3>
 <hr>
 
-<p align="center">
-  ![Brother Antony GitHub stats](https://github-readme-stats.vercel.app/api?username=Brother-Antony&show_icons=true&theme=dark)
-</p>
+![Brother Antony GitHub stats](https://github-readme-stats.vercel.app/api?username=Brother-Antony&show_icons=true&theme=dark)
 
-<!-- <p align="center">
-  <a href="https://github.com/Brother-Antony">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Brother-Antony&show_icons=true&include_all_commits=true&theme=dark" alt="Brother Antony github stats" />
-  </a>
-  <a href="https://github.com/Brother-Antony">
-     // Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Brother-Antony&layout=compact&theme=dark" />
-  </a>
-</p> -->
-
-<!-- <p align="center">
-  <a href="https://www.youtube.com/channel/UCJyVpgkKclh57_kOFmEFbEQ">
-    <img src="https://img.shields.io/badge/YouTube-Brother_Antony-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010" style="max-width:100%;">
-  </a>
-</p> -->
 
 
 
