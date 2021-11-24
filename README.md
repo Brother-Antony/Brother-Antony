@@ -68,20 +68,20 @@
   </code>
 </p>
 
-<h3 align="center">GITHUB STATS</h3>
-<hr>
+<!-- <h3 align="center">GITHUB STATS</h3>
+<hr> -->
 
 <!--[![Brother-Antony's github stats](https://github-readme-stats.vercel.app/api?username=Brother-Antony)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Brother-Antony">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Brother-Antony&show_icons=true&include_all_commits=true&theme=dark" alt="Brother Antony github stats" />
   </a>
   <a href="https://github.com/Brother-Antony">
-    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+     // Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Brother-Antony&layout=compact&theme=dark" />
   </a>
-</p>
+</p> -->
 
 <!-- <p align="center">
   <a href="https://www.youtube.com/channel/UCJyVpgkKclh57_kOFmEFbEQ">
